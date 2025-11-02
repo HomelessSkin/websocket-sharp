@@ -1,20 +1,20 @@
 {
-  "name": "com.homelessskin.core",
-  "displayName": "Core",
+  "name": "websocket-sharp",
+  "displayName": "Websocket-Sharp",
   "version": "1.0.0",
-  "description": "core",
+  "description": "",
   "author": {
-    "name": "RU_1n",
-    "email": "your@email.com"
+    "name": "",
+    "email": ""
   },
   "keywords": [
-    "core",
-    "utilities",
-    "systems"
+    "",
+    "",
+    ""
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/homelessskin/shared-core.git"
+    "url": "https://github.com/homelessskin/shared.git"
   },
   "hideInEditor": false,
   "dependencies": {
